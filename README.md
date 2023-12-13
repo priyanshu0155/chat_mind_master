@@ -72,9 +72,7 @@ To get started with ChatMind, follow these steps:
 
 1. Fork and clone the repository from GitHub:
   
-   ```bash
-   git clone https://github.com/MehraDevesh2022/chat-mind.git
-    ```
+   
 
 
  ## Install the required packages for the backend by running the following command in the root directory:
